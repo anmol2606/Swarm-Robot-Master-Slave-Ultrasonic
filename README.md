@@ -20,12 +20,6 @@ A simple two-robot system demonstrating master-slave communication using Arduino
 
 ---
 
-## 📷 Images / Circuit Diagram (Optional)
-
-> Add Tinkercad screenshot or Fritzing diagram here.
-
----
-
 ## 🧠 Logic Breakdown
 
 ### Master (TX):
